@@ -42,11 +42,11 @@ Before getting started, make sure you have the following:
 
    Update the `.env` file with your actual values:
 
-   ```plaintext
-   🤖 TOKEN=your_discord_bot_token
-   📦 MongoURI=your_mongodb_connection_uri
-   🌐 TestServers=["your_test_server_id_1","your_test_server_id_2"]
-   👥 Developers=["your_discord_user_id"]
+   ```env
+   TOKEN=your_discord_bot_token
+   MongoURI=your_mongodb_connection_uri
+   TestServers=["your_test_server_id_1","your_test_server_id_2"]
+   Developers=["your_discord_user_id"]
    ```
 
    Replace `your_discord_bot_token`, `your_mongodb_connection_uri`, `your_test_server_id_1`, `your_test_server_id_2`, and `your_discord_user_id` with your actual values.
@@ -97,5 +97,10 @@ Replace the placeholders (`name`, `description`, etc.) with appropriate values f
 
 ## 📄 License
 
-This project is licensed under the **Private Use License** and signed by [![Signature](https://iili.io/dBcVeRV.md.png)](https://freeimage.host/i/dBcVeRV). You are not permitted to use this code, in part or in whole, for any purpose other than private personal use. Any unauthorized use, reproduction, or distribution is strictly prohibited.
+This project is licensed under the **Private Use License** and signed by
+
+[![Signature](https://iili.io/dBcVeRV.md.png)](https://freeimage.host/i/dBcVeRV) 
+
+```error
+ERROR: You are not permitted to use this code, in part or in whole, for any purpose other than private personal use. Any unauthorized use, reproduction, or distribution is strictly prohibited.
 ```
