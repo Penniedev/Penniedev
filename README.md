@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Penniedev/InstaLock/blob/main/banner.png?raw=true" alt="Banner" width="800"/>
-</p>
-
-<h1 align="center">Hi, I'm Cookie</h1>
+<h1 align="center">Hi, I'm Pennie</h1>
 
 <p align="center">
   Developer & Designer focused on building clean, efficient, and modern desktop and web applications.
